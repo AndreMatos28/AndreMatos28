@@ -2,10 +2,7 @@
 
 - Estudando  Javascrip, HTML, CSS com foco maior em Java.
 - Estou me aprofundando em Backend seguindo o <a href="https://roadmap.sh/backend">roadmap.</a> 
-- 
 
-
-- 
  <div>
   <a href="https://github.com/AndreMatos28">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreMatos28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
