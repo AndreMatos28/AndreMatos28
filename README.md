@@ -1,6 +1,7 @@
 ## Olá, sou André Matos  👋
 
-- Estudando  Javascrip, HTML, CSS com foco maior em Java.
+- Estudando  para ser um especialista em Back-End com JAVA. 
+- Adquirindo algum conhecimento em Javascrip, HTML, CSS e React.
 - Estou me aprofundando em Backend seguindo o <a href="https://roadmap.sh/backend">roadmap.</a> 
 
  <div>
@@ -20,7 +21,6 @@
   
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
   
   ##
