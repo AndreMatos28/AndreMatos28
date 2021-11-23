@@ -1,8 +1,7 @@
 ## Olá, sou André Matos  👋
 
-- Estudando  para ser um especialista em Back-End com JAVA. 
-- Adquirindo algum conhecimento em Javascrip, HTML, CSS e React.
-- Estou me aprofundando em Backend seguindo o <a href="https://roadmap.sh/backend">roadmap.</a> 
+- Estudando com foco em Back-End JAVA. 
+- Conhecimento em Javascrip, HTML, CSS e React.
 
  <div>
   <a href="https://github.com/AndreMatos28">
