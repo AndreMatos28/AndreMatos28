@@ -1,7 +1,7 @@
 ## Olá, sou André Matos  👋
 
 - Estudando Java para Back-End JAVA. 
-- Estudando Javascrip, HTML, CSS para Front-End.
+- Estudando JavaScrip (ECMAScript), HTML, CSS para Front-End.
 
  <div>
   <a href="https://github.com/AndreMatos28">
