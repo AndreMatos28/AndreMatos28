@@ -1,9 +1,12 @@
-## Olá, sou André Matos  👋
+# HI THERE
+## I'm André Matos  👋
 
-- Estudando Java para Back-End JAVA. 
-- Estudando Angular - JavaScrip (ECMAScript), HTML, CSS para Front-End.
+#### A junior backend developer, constantly learning.
+
+
 
  <div>
+ <br>
   <a href="https://github.com/AndreMatos28">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreMatos28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMatos28&layout=compact&langs_count=7&theme=dracula"/>
@@ -26,7 +29,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
   
-  ##
+ <br>
  
 <div> 
   <!-- <a href="https://www.youtube.com/channel/UC3C7DnR5Z5AEHogeATVhd4g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
