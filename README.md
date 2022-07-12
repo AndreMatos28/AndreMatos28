@@ -1,7 +1,7 @@
 # HI THERE
 ## I'm André Matos  👋
 
-#### A junior backend developer, constantly learning.
+#### A junior developer, constantly learning.
 
 
 
